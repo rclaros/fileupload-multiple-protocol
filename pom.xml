@@ -144,7 +144,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.unmsm.ftransfer.process.startup.MainListener</mainClass>
+                            <mainClass>org.sotech.fileupload.startup.MainListener</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
@@ -159,7 +159,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.unmsm.ftransfer.process.startup.MainListener</mainClass>
+                            <mainClass>org.sotech.fileupload.startup.MainListener</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
